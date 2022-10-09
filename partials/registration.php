@@ -48,7 +48,7 @@
               </div>
             
               <button type="submit" class="btn btn-dark my-3">Register</button>
-              <p>Already have an account? <a href="../" class="text-white">Login here</a></p>
+              <p>Already have an account? <a href="../home.php" class="text-white">Login here</a></p>
 
           </form>
 
