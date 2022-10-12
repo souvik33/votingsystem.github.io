@@ -5,7 +5,7 @@
   }
   $data=$_SESSION['data'];
    if($_SESSION['status']==1){
-     $status='<b class="text-success">Voted</b>';
+     $status='<b class="text-info">Voted</b>';
    }else{
     $status='<b class="text-danger">Not Voted</b>';
    }
